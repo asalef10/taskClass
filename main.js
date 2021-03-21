@@ -141,6 +141,7 @@ function SendTo() {
     <td>
     ${Mofa.Engine_capacity}
     <td>
+    
     ${Mofa.color}
     </table>
     `
