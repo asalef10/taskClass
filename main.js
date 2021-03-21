@@ -20,8 +20,6 @@ class Cars {
     }
 
 
-
-
     static obJect(ArryObject) {
 
         return Math.max(...ArryObject);
@@ -100,8 +98,6 @@ console.log(truck.answer);
 console.log(truck.printUpperCaseName())
 console.log(Cars.obJect([truck.Engine_capacity, jeep.Engine_capacity, Tmax.Engine_capacity]));
 
-
-
 function SendTo() {
     Name = nAmeCar.value
     numNerWheels = NuOfWheels.value
@@ -135,7 +131,6 @@ function SendTo() {
         </tr>
     <td> 
     ${Mofa.Name}
-
     <td>
     ${Mofa.Number_of_wheels}
     <td>
@@ -162,8 +157,6 @@ function SendTo() {
     </table>
     `
     }
-
-
 }
 
 
