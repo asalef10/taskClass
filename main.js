@@ -133,10 +133,15 @@ function SendTo() {
         <th>Engine_capacity</th>
         <th>color</th>
         </tr>
-    <td>${Mofa.Name}
-    <td>${Mofa.Number_of_wheels}
-    <td>${Mofa.Engine_capacity}
-    <td>${Mofa.color}
+    <td> 
+    ${Mofa.Name}
+
+    <td>
+    ${Mofa.Number_of_wheels}
+    <td>
+    ${Mofa.Engine_capacity}
+    <td>
+    ${Mofa.color}
     </table>
     `
 
